@@ -520,9 +520,9 @@ display: none;
         font-size: 3rem;
       }
     
-      .icons {
-        display: none;
-      }
+      .login1{
+    display: none;
+  }
     
       .nav-list .icons {
         display: flex;
